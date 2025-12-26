@@ -7,9 +7,12 @@
 [![Rust](https://img.shields.io/badge/Rust-2021-orange?style=flat-square&logo=rust)](https://www.rust-lang.org/)
 [![Tauri](https://img.shields.io/badge/Tauri-v2-blue?style=flat-square&logo=tauri)](https://tauri.app/)
 [![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=flat-square&logo=windows)](https://www.microsoft.com/windows)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/badge/License-GPL--3.0-green?style=flat-square)](LICENSE)
 [![MCAF](https://img.shields.io/badge/Follows-MCAF-purple?style=flat-square)](https://mcaf.managed-code.com/)
 [![Laws of UX](https://img.shields.io/badge/Design-Laws%20of%20UX-blueviolet?style=flat-square)](https://lawsofux.com/)
+
+> [!NOTE]
+> **Open Core Model**: This project is completely open source under GPL-3.0. You are free to build, modify, and run the code yourself for free. We charge for pre-built convenience binaries to support development.
 
 [Download](#-quick-start) • [Features](#-features) • [Design](#-design-philosophy) • [Build](#-building-from-source) • [Docs](#-documentation)
 
